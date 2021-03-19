@@ -1,1 +1,78 @@
-# A-Hands-on-Workshop-series-in-Machine-Learning
+## A Hands-on Workshop series in Machine Learning 
+Time: **12-2 pm PST** every **Tuesday/Wednesday** and **Friday** from **Oct 13/14th** to **Oct 30th, 2020** (**6 sessions** in total)  
+
+The solution is now uploaded in the Session 1 folder of [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning). The Zoom recording for session 1 is emailed to all registered participants.
+
+[Here](https://forms.gle/k3sidBtcAikQziQU7) is an optional quiz for you to brush up your Python skills before the workshop: https://forms.gle/k3sidBtcAikQziQU7
+
+The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
+
+You will learn the minimal but most useful tools for exploring datasets using pandas quickly and then move on to the conventional machine learning algorithms and other related concepts that comes in handy for all models including neural networks. The neural networks will be introduced gently from the fourth session onwards and you will learn some more involved architectures such as Convolution Neural Networks (CNN) and apply them to real-world datasets. The sessions will be a good mix of theory explained intuitively in a simplified manner and hands-on exercises.
+
+Each session of the workshop will build on the previous ones. It is important that you attend all the sessions of the series for it to be useful. The learning material will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) a few minutes before each session. The solutions to the hands-on exercises will be uploaded in [the same repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) after each session.
+
+#### Pre-requisites:
+1. The workshop will cover the data science and deep learning tools in the Python ecosystem from the scratch. Some familiarity with Python is a pre-requisite. If you have a grip on the basics of coding in some other language such as Javascript, that should suffice too. 
+2. Basics of Probability and Statistics
+3. Basics of Calculus
+4. Basics of Linear Algebra
+
+#### What to bring:  
+Please bring your laptop fully charged and with WiFi connection. Please [download and install Anaconda with Python 3.8 version](https://www.anaconda.com/products/individual#Downloads) in your laptop ahead of the workshop.  
+
+### Topics to be covered:  
+
+#### Sessions 1: (Friday, March 26th, 2021)
+* Introduction to Jupyter Notebook
+* Pandas dataframes as a data structure
+* Indexing and slicing data frames
+* Data exploration 
+* Basic statistical plots using `matplotlib` and `seaborn`
+* Detecting and filling missing values
+* Regular expressions for text mining
+
+#### Sessions 2: (Tuesday, March 30th, 2021)
+* More on `pandas` - Groupby operations
+* One hot encoding for categorical features
+* An exercise on preprocessing the movie reviews from the [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) using regular expressions
+
+#### Sessions 3: (Friday, April 2nd, 2021)
+* Binary classification algorithm: Logistic Regression
+* Underfitting and Overfitting to the training dataset; Model cross-validation
+* Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor, using word n-grams, etc.
+* Application of Logistic Regression and NLP concepts using `scikit-learn` on the [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) to predict the sentiment (positive or negative) of the movie reviews
+
+#### Session 4: (Tuesday, April 6th, 2021)
+* Linear Regression
+* Building the intuition of the training process and architecture of neural networks  
+* An exercise on implementing AND, OR and XOR gates with simple neural networks by trial-and-error
+* Multi-Layer Perception: Forward and Backward propagation
+* A primer on `Keras`
+* Training a neural network 
+ 
+#### Session 5: (Friday, April 9th, 2021)
+More on Neural networks
+* Vanishing gradients and exploding gradients in deep networks
+* Activation functions 
+* Weight Initialization
+* Regularization - L1 and L2, Dropout
+* Tuning other hyper-parameters such as learning rate, number of epochs, etc.
+* Exploring the [TensorFlow Playground](https://playground.tensorflow.org/)
+* Application of the above concepts on on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for training a neural network for sentiment analysis
+
+#### Session 6: (Tuesday, April 13th, 2021)
+* Imbalanced datasets and classification metrices:
+    * Confusion matrix
+    * Decision Threshold
+    * Precision/Recall
+    * F1-score
+    * Area Under ROC curve 
+* Mini-project: Build a spam detector using dataset from [Kaggle](https://www.kaggle.com)
+
+#### Session 7: (Friday, April 16th, 2021)
+* Image preprocessing for neural networks
+* Feature extraction using convolution filters
+* Convolution Neural Networks architecture (CNN)
+* Training a CNN model on CIFAR-10 dataset
+
+This page will be frequently updated with more information.
