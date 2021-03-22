@@ -28,7 +28,7 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 * Detecting and filling missing values
 * Regular expressions for text mining
 
-#### Sessions 2: More on `pandas` and regular expressions (Tuesday, March 30th, 2021)
+#### Sessions 2: More on `pandas` and Regular Expressions (Tuesday, March 30th, 2021)
 * More on `pandas` - Groupby operations
 * One hot encoding for categorical features
 * An exercise on preprocessing the movie reviews from the [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) using regular expressions
@@ -47,7 +47,7 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 * A primer on `Keras`
 * Training a neural network on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for sentiment analysis
  
-#### Session 5: Fine-tuning the Neural Networks (Friday, April 9th, 2021)
+#### Session 5: Fine-tuning Neural Networks (Friday, April 9th, 2021)
 * Vanishing gradients and exploding gradients in deep networks
 * Activation functions 
 * Weight Initialization
