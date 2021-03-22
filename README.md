@@ -13,7 +13,7 @@ Each session of the workshop will build on the previous ones. It is important th
 3. Basics of Calculus
 4. Basics of Linear Algebra
 
-[Here](https://forms.gle/k3sidBtcAikQziQU7) is an optional quiz for you to brush up your Python skills before the workshop: https://forms.gle/k3sidBtcAikQziQU7
+[Here](https://forms.gle/k3sidBtcAikQziQU7) is an optional quiz to brush up your Python skills before the workshop.
 
 Please [download and install Anaconda with Python 3.8 version](https://www.anaconda.com/products/individual#Downloads) in your laptop ahead of the workshop.  
 
