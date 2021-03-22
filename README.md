@@ -5,6 +5,8 @@ The workshop series is designed with a focus on the practical aspects of machine
 
 You will learn the minimal but most useful tools for exploring datasets using `pandas` and then gently introduced to neural networks. Some concepts from natural language processing will also be covered as you will train neural network models on textual data. You will also learn more involved architectures such as Convolution Neural Networks (CNN) and apply them to real-world image datasets.
 
+**Register using [this Google form](https://forms.gle/GWURZQd3MqPUjbvg8)** to save your seat. Please also **register for the Zoom meeting** [here](https://hmc-edu.zoom.us/meeting/register/tJAlc-isqzkvG9YRbSQ-t3GE-t-M82Q7E53x). After registering, you will receive a confirmation email containing information about joining the Zoom meeting. 
+
 Each session of the workshop will build on the previous ones. It is important that you attend all the sessions of the series for it to be useful. The learning material and solutions will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) after each session.
 
 #### Pre-requisites:
