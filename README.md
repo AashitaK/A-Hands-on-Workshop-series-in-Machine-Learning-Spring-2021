@@ -42,7 +42,7 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 #### Session 4: A Gentle Introduction to Neural Networks (Friday, April 9th, 2021)
 * Linear Regression
 * Neural networks: Building the intuition of the architecture and the iterative learning process  
-* An exercise on implementing AND, OR and XOR gates with simple neural networks by trial-and-error
+* An exercise on implementing AND, OR and XOR gates with neural networks by trial-and-error
 * Multi-Layer Perception: Forward and Backward propagation
 * A primer on `Keras`
 * Training a neural network on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for sentiment analysis
