@@ -3,7 +3,7 @@ Timing: **12-2 pm PST** on **Tuesdays** and **Fridays** from **March 26th, 2021*
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
-You will learn the minimal but most useful tools for exploring datasets using pandas quickly and then move on to the conventional machine learning algorithms and other related concepts that comes in handy for all models including neural networks. The neural networks will be introduced gently from the fourth session onwards and you will learn some more involved architectures such as Convolution Neural Networks (CNN) and apply them to real-world datasets. The sessions will be a good mix of theory explained intuitively in a simplified manner and hands-on exercises.
+You will learn the minimal but most useful tools for exploring datasets using `pandas` and then gently introduced to neural networks. Some concepts from natural language processing will also be covered as you will train neural network models on textual data. You will also learn more involved architectures such as Convolution Neural Networks (CNN) and apply them to real-world image datasets.
 
 Each session of the workshop will build on the previous ones. It is important that you attend all the sessions of the series for it to be useful. The learning material and solutions will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) after each session.
 
@@ -19,7 +19,7 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 
 ### Topics to be covered:  
 
-#### Sessions 1: (Friday, March 26th, 2021)
+#### Sessions 1: Data Manipulation using `pandas` (Friday, March 26th, 2021)
 * Introduction to Jupyter Notebook
 * Pandas dataframes as a data structure
 * Indexing and slicing data frames
@@ -28,18 +28,18 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 * Detecting and filling missing values
 * Regular expressions for text mining
 
-#### Sessions 2: (Tuesday, March 30th, 2021)
+#### Sessions 2: More on `pandas` and regular expressions (Tuesday, March 30th, 2021)
 * More on `pandas` - Groupby operations
 * One hot encoding for categorical features
 * An exercise on preprocessing the movie reviews from the [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) using regular expressions
 
-#### Sessions 3: (Friday, April 2nd, 2021)
+#### Sessions 3: Logistic Regression (Friday, April 2nd, 2021)
 * Binary classification algorithm: Logistic Regression
 * Underfitting and Overfitting to the training dataset; Model cross-validation
 * Natural language processing (NLP) concepts: Bag Of Words (BOW) model, TF-IDF vectorizor, using word n-grams, etc.
 * Application of Logistic Regression and NLP concepts using `scikit-learn` on the [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) to predict the sentiment (positive or negative) of the movie reviews
 
-#### Session 4: (Tuesday, April 6th, 2021)
+#### Session 4: A Gentle Introduction to Neural Networks (Tuesday, April 6th, 2021)
 * Linear Regression
 * Neural networks: Building the intuition of the architecture and the iterative learning process  
 * An exercise on implementing AND, OR and XOR gates with simple neural networks by trial-and-error
@@ -47,8 +47,7 @@ Please [download and install Anaconda with Python 3.8 version](https://www.anaco
 * A primer on `Keras`
 * Training a neural network on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for sentiment analysis
  
-#### Session 5: (Friday, April 9th, 2021)
-More on Neural networks
+#### Session 5: Fine-tuning the Neural Networks (Friday, April 9th, 2021)
 * Vanishing gradients and exploding gradients in deep networks
 * Activation functions 
 * Weight Initialization
@@ -57,7 +56,7 @@ More on Neural networks
 * Exploring the [TensorFlow Playground](https://playground.tensorflow.org/)
 * Application of the above concepts on [IMDb dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) for training a neural network for sentiment analysis
 
-#### Session 6: (Tuesday, April 13th, 2021)
+#### Session 6: Classification metrices (Tuesday, April 13th, 2021)
 * Imbalanced datasets and classification metrices:
     * Confusion matrix
     * Decision Threshold
@@ -66,10 +65,10 @@ More on Neural networks
     * Area Under ROC curve 
 * Mini-project: Building a spam detector using dataset from [Kaggle](https://www.kaggle.com)
 
-#### Session 7: (Friday, April 16th, 2021)
+#### Session 7: Convolution Neural Networks (Friday, April 16th, 2021)
 * Image preprocessing for neural networks
 * Feature extraction using convolution filters
-* Convolution Neural Networks architecture (CNN)
+* Convolution Neural Network architecture (CNN)
 * Training a CNN model on CIFAR-10 dataset
 
 This page will be frequently updated with more information.
