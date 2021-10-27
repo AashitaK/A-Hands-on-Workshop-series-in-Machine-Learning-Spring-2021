@@ -1,11 +1,12 @@
 ## A Hands-on Workshop series in Machine Learning 
-Timing: **12-2 pm PST** on **Tuesdays** and **Fridays** from **March 30th, 2021** to **April 20th, 2021** (**7 sessions** in total)  
+Timing: **4-6 pm PST** on **Tuesdays** and **Fridays** from **Nov 2nd, 2021** to **Nov 23rd, 2021** (**7 sessions** in total)  
+Where: Online on Zoom
 
 The workshop series is designed with a focus on the practical aspects of machine learning using real-world datasets and the tools in the Python ecosystem. It is targeted towards complete beginners familiar with Python but is also designed adaptively so that you will be challenged even if you have some familiarity with machine learning tools. 
 
 You will learn the minimal but most useful tools for exploring datasets using `pandas` and then gently introduced to neural networks. Some concepts from natural language processing will also be covered as you will train neural network models on textual data. You will also learn more involved architectures such as Convolution Neural Networks (CNN) and apply them to real-world image datasets.
 
-**Register using [this Google form](https://forms.gle/GWURZQd3MqPUjbvg8)** to save your seat. Please also **register for the Zoom meeting [here](https://hmc-edu.zoom.us/meeting/register/tJAlc-isqzkvG9YRbSQ-t3GE-t-M82Q7E53x)**. After registering, you will receive a confirmation email containing information about joining the Zoom meeting. 
+**Register using [this Google form](https://forms.gle/6TQMbZEVFPtX2wzp8)** to save your seat. Please also **register for the Zoom meeting [here](https://hmc-edu.zoom.us/meeting/register/tJIudeiqpjIpE9LC_EGJOuOEdv0TbRvT641X)**. After registering, you will receive a confirmation email containing information about joining the Zoom meeting. 
 
 Each session of the workshop will build on the previous ones. It is important that you attend all the sessions of the series for it to be useful. The learning material and solutions will be made available in [this Github repository](https://github.com/AashitaK/A-Hands-on-Workshop-series-in-Machine-Learning) after each session.
 
